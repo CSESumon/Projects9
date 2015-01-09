@@ -1,0 +1,12 @@
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\bin\Debug\RefrigaretorApp.exe.config
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\bin\Debug\RefrigaretorApp.exe
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\bin\Debug\RefrigaretorApp.pdb
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.csprojResolveAssemblyReference.cache
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.RefrigeratorUI.resources
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.Properties.Resources.resources
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.csproj.GenerateResource.Cache
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.exe
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.pdb
+E:\ASP.Net\RefrigaretorApp\RefrigaretorApp\bin\Debug\RefrigaretorApp.exe.config
+E:\ASP.Net\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.exe
+E:\ASP.Net\RefrigaretorApp\RefrigaretorApp\obj\Debug\RefrigaretorApp.pdb

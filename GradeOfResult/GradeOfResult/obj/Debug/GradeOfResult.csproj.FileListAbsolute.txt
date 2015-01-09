@@ -1,0 +1,9 @@
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\bin\Debug\GradeOfResult.exe.config
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\bin\Debug\GradeOfResult.exe
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\bin\Debug\GradeOfResult.pdb
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\obj\Debug\GradeOfResult.csprojResolveAssemblyReference.cache
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\obj\Debug\GradeOfResult.ResultUI.resources
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\obj\Debug\GradeOfResult.Properties.Resources.resources
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\obj\Debug\GradeOfResult.csproj.GenerateResource.Cache
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\obj\Debug\GradeOfResult.exe
+E:\FTFL_ASP.Net\LAB Prac\27-12-14\GradeOfResult\GradeOfResult\obj\Debug\GradeOfResult.pdb

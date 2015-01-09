@@ -1,0 +1,12 @@
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\bin\Debug\SalaryIncrementApp.exe.config
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\bin\Debug\SalaryIncrementApp.exe
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\bin\Debug\SalaryIncrementApp.pdb
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.csprojResolveAssemblyReference.cache
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.Form1.resources
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.Properties.Resources.resources
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.csproj.GenerateResource.Cache
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.exe
+F:\ASP.Net\28-12-14\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.pdb
+E:\Work\ASP.Net\Prac\28-12-14\New folder\SalaryIncrementApp\SalaryIncrementApp\bin\Debug\SalaryIncrementApp.exe.config
+E:\Work\ASP.Net\Prac\28-12-14\New folder\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.exe
+E:\Work\ASP.Net\Prac\28-12-14\New folder\SalaryIncrementApp\SalaryIncrementApp\obj\Debug\SalaryIncrementApp.pdb

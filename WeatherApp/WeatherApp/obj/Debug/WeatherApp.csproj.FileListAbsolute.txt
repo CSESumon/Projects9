@@ -1,0 +1,8 @@
+D:\asp.net\After exam\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\asp.net\After exam\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+D:\asp.net\After exam\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\asp.net\After exam\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+D:\asp.net\After exam\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+D:\asp.net\After exam\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+D:\asp.net\After exam\WeatherApp\WeatherApp\obj\Debug\WeatherApp.WeatherUI.resources
+D:\asp.net\After exam\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
